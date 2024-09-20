@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @modern-dev-dude
-- 👀 I’m interested in all things code with an emphisis in web development, typescript, and Next JS 
+- 👋 Hi, I’m Jason
+- 👀 I enjoy solving hard problems
 - 📫 How to reach me email me at <a href='mailto:jason@moderndevdude.com'>Modern Dev Dude LLC</a>
 
 <!---
